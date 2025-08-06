@@ -143,7 +143,7 @@ The FintradeX parachain consists of:
 - **Risk Management**: Advanced risk controls and position monitoring
 
 ### 🏛️ Governance & Economics
-- **DAO Governance**: Community-driven protocol decisions
+- **DAO Governance**: Community-driven protocol decision
 - **Fee Distribution**: Fair and transparent fee sharing mechanisms
 - **Staking Rewards**: Earn rewards by participating in network security
 - **Treasury Management**: Community-controlled development funding
